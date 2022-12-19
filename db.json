@@ -48,6 +48,24 @@
       "year": "2021",
       "photo": "https://picsum.photos/400/470",
       "id": 9
+    },
+    {
+      "artist": "ddf",
+      "year": "",
+      "photo": "https://picsum.photos/400/332",
+      "id": 10
+    },
+    {
+      "artist": "",
+      "year": "",
+      "photo": "https://picsum.photos/400/351",
+      "id": 11
+    },
+    {
+      "artist": "dfdf",
+      "year": "",
+      "photo": "https://picsum.photos/400/496",
+      "id": 12
     }
   ]
 }
